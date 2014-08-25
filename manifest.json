@@ -1,7 +1,7 @@
 {
   "name": "segment-io",
   "author": "Alan Plum",
-  "version": "0.1",
+  "version": "1.0.0",
   "description": "Job type for Foxx using segment.io.",
 
   "exports": {
