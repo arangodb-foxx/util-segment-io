@@ -1,8 +1,21 @@
 {
   "name": "segment-io",
-  "author": "Alan Plum",
-  "version": "1.0.0",
   "description": "Job type for Foxx using segment.io.",
+  "author": "ArangoDB GmbH",
+  "version": "1.0.0",
+  "license": "Apache License, Version 2.0",
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arangodb/foxx-segment-io.git"
+  },
+
+  "contributors": [
+    {
+      "name": "Alan Plum",
+      "email": "me@pluma.io"
+    }
+  ],
 
   "exports": {
     "types": "types.js"
